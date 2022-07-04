@@ -10,14 +10,14 @@ This is a simple website created for atm-simulator-app project
 ### Prerequisites
 
 * npm or yarn
-* Running backend [ATM Simulator](https://github.com/bsekharb/atm-simulator-backend) project
+* Running backend [ATM demo](https://github.com/bsekharb/atm-demo-backend) project
 
 ### Running project on MAC OS X
 
 * Clone and go to project by running the following command
-```https://github.com/bsekharb/atm-simulator-frontend
-$ git clone https://github.com/bsekharb/atm-simulator-frontend.git or git clone git@github.com:bsekharb/atm-simulator-frontend.git
-$ cd atm-simulator-frontend
+```
+$ git clone https://github.com/bsekharb/atm-demo-frontend.git or git clone git@github.com:bsekharb/atm-demo-frontend.git
+$ cd atm-demo-frontend
 ```
 
 ###### Yarn
