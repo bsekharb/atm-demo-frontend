@@ -1,4 +1,4 @@
-# React ATM Simulator
+# React ATM Simulator Demo
 
 This is a simple website created for atm-simulator-app project
 
